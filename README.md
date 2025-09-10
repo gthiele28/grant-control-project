@@ -79,3 +79,8 @@ When you present your project, you will have roughly 10-15 minutes to showcase e
 Whatever medium you think is best for this is fine; we're not particularly concerned about your graphic design or presentation skills beyond what is needed to communicate the core ideas here.
 
 You will also submit a zip file of your finalized code.
+
+
+## Resources
+
+We'll add a bunch of resources here after we meet internally this Wednesday, 9/10.
