@@ -17,6 +17,9 @@ def controller(x):
     velocity = x[3]
     steeringAngle = x[4]
 
+    
+    return np.array([1,0])
+
 
 sim = Simulator(controller)
 sim.run()
