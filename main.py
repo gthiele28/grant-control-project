@@ -11,7 +11,12 @@ def controller(x):
         ndarray: numpy array of shape (2,) containing [fwd acceleration, steering rate]
     """
     ... # YOUR CODE HERE
-    return np.array([1,0])
+    xPos = x[0]
+    yPos = x[1]
+    heading = x[2]
+    velocity = x[3]
+    steeringAngle = x[4]
+
 
 sim = Simulator(controller)
 sim.run()
